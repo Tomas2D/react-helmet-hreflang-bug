@@ -1,7 +1,7 @@
 # react-helmet-hreflang-bug
 
-[react-helmet issue here](https://github.com/nfl/react-helmet/issues/651)
+[Related react-helmet issue here](https://github.com/nfl/react-helmet/issues/651)
 
-### `yarn start` (SPA)
+### `yarn start` (SPA - port 3000)
 
-### `yarn server` (SSR)
+### `yarn server` (SSR - port 3000)
